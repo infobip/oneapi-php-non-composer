@@ -1,3 +1,12 @@
+## ⚠️ Deprecated
+
+**This repository is deprecated and no longer actively maintained, it will be archived in the near future.**
+
+You’re still welcome to browse or fork the code, but issues and pull requests will not be monitored.
+
+There is currently **no active PHP-based alternative without Composer** available, however, there is an actively maintained PHP version with Composer here: [infobip-api-php-client](https://github.com/infobip/infobip-api-php-client)
+
+
 OneApi PHP client
 ============================
 
